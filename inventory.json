@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "product_id": "p1",
+            "name": "shirts",
+            "price": 1000.0,
+            "category": "shirt",
+            "quantity": 9
+        },
+        {
+            "product_id": "p2",
+            "name": "pant",
+            "price": 2000.0,
+            "category": "pant",
+            "quantity": 20
+        }
+    ]
+}
